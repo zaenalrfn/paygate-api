@@ -20,7 +20,7 @@ Proyek ini menyediakan layanan backend untuk memproses pembayaran digital secara
 1. **Clone repository**
 
     ```bash
-    git clone https://github.com/username/project-name.git
+    git clone https://github.com/zaenalrfn/paygate-api.git
     ```
 
 2. **Install Dependencies**
